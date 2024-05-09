@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body, html{
+    height: 100%;
+    width: 100%;
+}
+main{
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+    background: linear-gradient(30deg,#FFF9D0,#CAF4FF,#A0DEFF,#5AB2FF);
+}
+textarea{
+    padding: 10px;
+    height: 250px;
+    width: 450px;
+    font-size: 15px;
+    font-weight: 400;
+    border: 2px solid #dadada;
+    outline-color:royalblue ;
+}
